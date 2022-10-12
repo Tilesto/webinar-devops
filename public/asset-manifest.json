@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8646a323.chunk.css",
+    "main.js": "./static/js/main.029fc6e5.chunk.js",
+    "main.js.map": "./static/js/main.029fc6e5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6320ffb1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6320ffb1.js.map",
+    "static/js/2.a6ec701b.chunk.js": "./static/js/2.a6ec701b.chunk.js",
+    "static/js/2.a6ec701b.chunk.js.map": "./static/js/2.a6ec701b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9b48d13be767cdcd5f74e0f815e787ea.js": "./precache-manifest.9b48d13be767cdcd5f74e0f815e787ea.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.8646a323.chunk.css.map": "./static/css/main.8646a323.chunk.css.map",
+    "static/js/2.a6ec701b.chunk.js.LICENSE.txt": "./static/js/2.a6ec701b.chunk.js.LICENSE.txt",
+    "static/media/404.svg": "./static/media/404.200fa0f2.svg",
+    "static/media/index.css": "./static/media/Roboto.58bf8e0b.woff",
+    "static/media/birds.svg": "./static/media/birds.947bf8a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6320ffb1.js",
+    "static/js/2.a6ec701b.chunk.js",
+    "static/css/main.8646a323.chunk.css",
+    "static/js/main.029fc6e5.chunk.js"
+  ]
+}
